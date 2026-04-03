@@ -49,7 +49,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/magic-signs/circles/v1/conjuration-magic-sign-circle-intro.ogg",
+            "file": "psfx.magic-signs.circle.v1.conjuration.intro",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -187,5 +187,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Summon Anarch",
+        "menu": "ontoken"
     }
 }

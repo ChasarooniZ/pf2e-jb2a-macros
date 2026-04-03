@@ -26,7 +26,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/1st-level-spells/arms-of-hadar/v1/arms-of-hadar-00.ogg",
+            "file": "psfx.1st-level-spells.arms-of-hadar.v1.001",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -165,5 +165,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Black Tentacles",
+        "menu": "templatefx"
     }
 }

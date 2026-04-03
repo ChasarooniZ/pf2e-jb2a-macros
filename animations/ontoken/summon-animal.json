@@ -187,5 +187,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Summon Animal",
+        "menu": "ontoken"
     }
 }

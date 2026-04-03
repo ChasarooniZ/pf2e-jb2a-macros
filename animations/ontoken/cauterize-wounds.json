@@ -32,12 +32,12 @@
             "variant": "01",
             "color": "blue",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Cast/CastSideFire01_01_Regular_Orange_800x600.webm"
+            "customPath": "jb2a.cast_generic.fire.side01.orange"
         },
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/casting/fire-side/cast-fire-side-01.ogg",
+            "file": "psfx.casting.fire-side.001",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
@@ -78,7 +78,7 @@
             "variant": "01",
             "color": "blue",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Healing/HealingAbility_02_Regular_GreenOrange_Burst_600x600.webm"
+            "customPath": "jb2a.healing_generic.burst.greenorange"
         },
         "sound": {
             "enable": false,
@@ -200,5 +200,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Cauterize Wounds",
+        "menu": "ontoken"
     }
 }

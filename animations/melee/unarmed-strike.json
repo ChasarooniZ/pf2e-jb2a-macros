@@ -192,5 +192,9 @@
             "unbindVisibility": true,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Unarmed Strike",
+        "menu": "melee"
     }
 }

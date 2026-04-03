@@ -55,7 +55,7 @@
             "variant": "01",
             "color": "white",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Weapon_Attacks/Melee/Group06/MeleeAttack06_Shield04_01_Regular_White_800x600.webm"
+            "customPath": "jb2a.melee_attack.06.shield.04"
         },
         "sound": {
             "enable": false,
@@ -212,5 +212,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Shielding Strike",
+        "menu": "melee"
     }
 }

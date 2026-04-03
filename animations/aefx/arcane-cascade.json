@@ -128,5 +128,9 @@
             "size": 1,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Arcane Cascade",
+        "menu": "aefx"
     }
 }

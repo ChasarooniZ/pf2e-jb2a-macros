@@ -37,7 +37,7 @@
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/musical-instruments/strummed-plucked/lute/strummed-tremolo/lute-Aadd9-strum-tremolo.ogg",
+            "file": "psfx.musical-instruments.lute.01.strummed-tremolo.keyOfA",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
@@ -200,5 +200,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Counter Performance",
+        "menu": "ontoken"
     }
 }

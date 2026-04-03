@@ -39,7 +39,7 @@
             "repeatDelay": 250,
             "startTime": 0,
             "volume": 0.75,
-            "file": "modules/psfx-patreon/library/magic-signs/runes/v1/necromancy-magic-sign-rune-complete.ogg"
+            "file": "psfx.magic-signs.circle.v1.necromancy.complete"
         },
         "options": {
             "delay": 0,
@@ -174,5 +174,9 @@
             "unbindVisibility": true,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Black Tentacles",
+        "menu": "range"
     }
 }

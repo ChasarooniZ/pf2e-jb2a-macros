@@ -78,7 +78,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/casting/generic/001/cast-generic-03.ogg",
+            "file": "psfx.casting.generic.001",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -216,5 +216,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Dispel Magic",
+        "menu": "ontoken"
     }
 }

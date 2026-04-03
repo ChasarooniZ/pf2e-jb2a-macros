@@ -94,7 +94,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/impacts/bludgeoning/v1/meleeattack-impacts-bludgeoning-00.ogg",
+            "file": "psfx.impacts.bludgeoning.v1",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -232,5 +232,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Flail",
+        "menu": "melee"
     }
 }

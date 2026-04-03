@@ -37,7 +37,7 @@
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/ranged-weapons/guns/energy-blaster/prepare/energy-blaster-prepare-001.ogg",
+            "file": "psfx.ranged-weapons.guns.prepare.energy-blaster.0",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
@@ -193,5 +193,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Extract Element",
+        "menu": "range"
     }
 }

@@ -12,13 +12,13 @@
             "animation": "outpulse",
             "variant": "02",
             "color": "greenorange",
-            "enableCustom": false,
-            "customPath": ""
+            "enableCustom": true,
+            "customPath": "jb2a.lava_spout.001.001.complete.orangeyellow"
         },
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/cantrips/fire-bolt/v2/fire-bolt-002-30ft.ogg",
+            "file": "psfx.cantrips.fire-bolt.v2",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,

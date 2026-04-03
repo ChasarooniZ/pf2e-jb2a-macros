@@ -91,7 +91,7 @@
             "variant": "01",
             "color": "whiteblue",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Template/Circle/Aura/Aura003/Aura003_Outward_Complete_004_Blue_1400x1400.webm"
+            "customPath": "jb2a.template_circle.aura.03.outward.004.complete.combined.blue"
         }
     },
     "secondary": {
@@ -218,5 +218,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Crisis of Faith",
+        "menu": "ontoken"
     }
 }

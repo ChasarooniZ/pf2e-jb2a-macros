@@ -37,7 +37,7 @@
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/2nd-level-spells/misty-step/v1/intro/misty-step-intro-generic-001.ogg",
+            "file": "psfx.2nd-level-spells.misty-step.v1.intro.generic",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
@@ -200,5 +200,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Jump",
+        "menu": "ontoken"
     }
 }

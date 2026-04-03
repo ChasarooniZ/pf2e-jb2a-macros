@@ -32,12 +32,12 @@
             "variant": "01",
             "color": "blue",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Marker/Simple/MarkerSimpleComplete001_001_Blue_600x600.webm"
+            "customPath": "jb2a.markers.simple.001.complete.001.blue"
         },
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/creature/movement/footsteps/indoors/001/footsteps-single-indoors-001-03.ogg",
+            "file": "psfx.creature.movement.footsteps.indoors.001.single",
             "repeat": 3,
             "repeatDelay": 250,
             "startTime": 0,
@@ -200,5 +200,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Knock",
+        "menu": "ontoken"
     }
 }

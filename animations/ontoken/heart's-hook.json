@@ -37,7 +37,7 @@
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/musical-instruments/strummed-plucked/lute/strummed/lute-Fsus2-strum.ogg",
+            "file": "psfx.musical-instruments.lute.01.strummed.keyOfF.Fsus2",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
@@ -200,5 +200,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Heart's Hook",
+        "menu": "ontoken"
     }
 }

@@ -67,7 +67,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/soundfxlibrary/Combat/Single/Spell%20Impact/spell-impact-5.mp3",
+            "file": "psfx.impacts.magicaleffects.generic.002.003.0",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -208,9 +208,9 @@
         }
     },
     "metaData": {
-        "name": "PF2e Animation Macros",
-        "version": 12,
-        "moduleVersion": "2.6.6",
+        "name": "PF2e Animations",
+        "moduleVersion": "2.20.0",
+        "version": 2200,
         "label": "Flingflenser",
         "menu": "range"
     }

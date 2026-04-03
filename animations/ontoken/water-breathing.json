@@ -37,7 +37,7 @@
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/2nd-level-spells/misty-step/v1/outro/misty-step-outro-water-001.ogg",
+            "file": "psfx.2nd-level-spells.misty-step.v1.outro.water",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
@@ -200,5 +200,9 @@
             "unbindVisibility": false,
             "zIndex": 1
         }
+    },
+    "metaData": {
+        "label": "Water Breathing",
+        "menu": "ontoken"
     }
 }

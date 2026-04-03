@@ -67,7 +67,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/impacts/magicaleffects/necrotic/meleeattack-impacts-magicaleffects-necrotic-00.ogg",
+            "file": "psfx.magic-signs.circle.v1.necromancy.intro",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -207,5 +207,12 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "name": "PF2e Animations",
+        "moduleVersion": "2.20.0",
+        "version": 2200,
+        "label": "Call of the Grave",
+        "menu": "range"
     }
 }

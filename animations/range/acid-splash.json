@@ -67,7 +67,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/cantrips/acid-splash/v1/acid-splash-003-30ft.ogg",
+            "file": "psfx.cantrips.acid-splash.v1",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -205,5 +205,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Acid Splash",
+        "menu": "range"
     }
 }

@@ -13,15 +13,16 @@
             "variant": "01",
             "color": "blue",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Cast/CastShapeCircle01_01_Regular_Yellow_600x600.webm"
+            "customPath": "jb2a.markers.light.nopulse.yellow"
         },
         "sound": {
-            "enable": false,
+            "enable": true,
             "delay": 0,
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,
-            "volume": 0.75
+            "volume": 0.75,
+            "file": "psfx.2nd-level-spells.moonbeam.intro.v1.001"
         },
         "options": {
             "contrast": 0,

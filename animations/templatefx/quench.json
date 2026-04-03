@@ -13,12 +13,12 @@
             "variant": "01",
             "color": "blue",
             "enableCustom": true,
-            "customPath": "modules/jb2a_patreon/Library/Generic/Liquid/Bubble/BubbleComplete001_001_Blue_2x2_400x400.webm"
+            "customPath": "jb2a.liquid.blob.blue"
         },
         "sound": {
             "enable": true,
             "delay": 0,
-            "file": "modules/psfx-patreon/library/2nd-level-spells/misty-step/v1/intro/misty-step-intro-water-001.ogg",
+            "file": "psfx.2nd-level-spells.misty-step.v1.outro.water",
             "repeat": 1,
             "repeatDelay": 250,
             "startTime": 0,

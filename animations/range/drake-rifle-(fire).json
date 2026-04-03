@@ -207,5 +207,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Drake Rifle (Fire)",
+        "menu": "range"
     }
 }

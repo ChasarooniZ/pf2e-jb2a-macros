@@ -78,7 +78,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/conditions/boon/boon-016-01.ogg",
+            "file": "psfx.conditions.boon.016.01",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -225,5 +225,9 @@
             "path": "",
             "property": ""
         }
+    },
+    "metaData": {
+        "label": "Heal Companion",
+        "menu": "ontoken"
     }
 }

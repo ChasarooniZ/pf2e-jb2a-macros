@@ -216,5 +216,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Charming Push",
+        "menu": "ontoken"
     }
 }

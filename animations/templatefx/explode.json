@@ -26,7 +26,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/3rd-level-spells/fireball/v1/fireball-explosion-01.ogg",
+            "file": "psfx.3rd-level-spells.fireball.v1.001.explosion",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -164,5 +164,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Explode",
+        "menu": "templatefx"
     }
 }

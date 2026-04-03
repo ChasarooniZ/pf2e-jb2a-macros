@@ -69,7 +69,7 @@
         "sound": {
             "delay": 0,
             "enable": true,
-            "file": "modules/psfx-patreon/library/1st-level-spells/entangle/vines/v1/entangle-outro.ogg",
+            "file": "psfx.1st-level-spells.entangle.vines.v1.001.outro",
             "startTime": 0,
             "volume": 1,
             "repeat": 1,
@@ -207,5 +207,9 @@
             "enableCustom": false,
             "customPath": ""
         }
+    },
+    "metaData": {
+        "label": "Growth Gun",
+        "menu": "range"
     }
 }
